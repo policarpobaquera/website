@@ -1,2 +1,2 @@
-# archiveCanvas
-An interactive archive of reference projects
+# archiveCanvas2020
+An interactive archive of projects, installations, inspirational projects, and fundational readings.

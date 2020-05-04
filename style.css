@@ -1,34 +1,32 @@
 body {
-    margin: 0;
-    background:white;
+    margin: 0px;
+    background:grey;
 }
 
 /* Navigation Bar */
 .nav-bar {
     /* Sticky */
-    position: sticky;
-    top: 0;
-    background: black;
+    position: fixed;
+    top: 0px;
+    width: 100%;
 }
 
 .element {
     padding-top: 3px;
     padding-top: 3px;
+    padding-left: 25px;
     padding-right: 20px;
     text-align: left;
     color: white;
     display: inline-block;
-    margin: 0;
     font-family: Arial;
     font-size: 18px;
     text-decoration: none;
 }
-.nav-bar > .element:hover { 
-    background: white;
+.nav-bar > .element:hover {
     color: black;
 }	
 
 .nav-bar > .element:active { 
     color: blue;
-    decoration: underline;
 }	
